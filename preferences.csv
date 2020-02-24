@@ -1,2 +1,2 @@
-﻿Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Test Image,https://www.memphis.edu/_um_resources/img/uofm-logo.png,0:00:10,1:00:00,1/1/18 0:00,12/31/99 23:59,yes
+Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
+Test,https://www.memphis.edu/_um_resources/img/uofm-logo.png,0:00:10,1:00:00,1/1/18 0:00,12/31/99 23:59,yes
